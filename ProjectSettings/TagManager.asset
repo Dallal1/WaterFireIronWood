@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Karakter1
+  - su
+  - atas
+  - demir
+  - tahtah
+  - PlayerSu
+  - PlayerAtes
+  - PlayerDemir
+  - PlayerTahtah
   layers:
   - Default
   - TransparentFX
